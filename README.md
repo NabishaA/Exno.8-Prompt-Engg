@@ -45,7 +45,7 @@ https://drive.google.com/file/d/1fATcPKxjOQxHOC-TfsCIq_D4lEkU5XWZ/view?usp=drive
 ## Comparison Summary :
 ![Screenshot 2025-05-21 103217](https://github.com/user-attachments/assets/41224189-2daf-4c1f-a81d-73d1eb94d4ae)
 
-### PROMPT COMPARISON :
+# PROMPT COMPARISON :
 ![Screenshot 2025-05-21 104924](https://github.com/user-attachments/assets/cf0df477-5806-4c69-b49b-c1061a73329c)
 
 
