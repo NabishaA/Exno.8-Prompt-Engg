@@ -31,13 +31,13 @@ Iterate – Refine prompts based on the audio quality and user feedback.
 ## Output:
 
 ### Prompt 1 :
-Generate a 15-second calm background music with piano and soft rain sounds.
+Generate a 30-second ambient background music track suitable for a study or focus session. The music should be calm, instrumental, and free of vocals. Use soft synth pads, gentle piano, and minimal rhythmic elements. Maintain a slow tempo and soothing atmosphere.
 
 ### Drive :
 https://drive.google.com/file/d/11sewJleHPgWhnTii4Kirg0Gg4L3uBcGM/view?usp=drive_link
 
 ### Prompt 2 :
-Nature-Infused Ambient Soundscape.
+Generate a 45-second ambient music track designed for deep focus and relaxation. Blend soft electronic textures with natural sounds like flowing water and distant birds. The track should be instrumental, slow-paced, and free of abrupt changes to maintain a consistent focus-friendly mood
 
 ### Drive :
 https://drive.google.com/file/d/1fATcPKxjOQxHOC-TfsCIq_D4lEkU5XWZ/view?usp=drive_link
