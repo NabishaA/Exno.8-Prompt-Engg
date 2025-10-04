@@ -1,7 +1,7 @@
-# NAME : NAVEEN KUMAR T
-# REG NO : 212223220067
+# NAME : NABISHA A
+# REG NO : 212223060177
 # Exno.8-Prompt-Engg
-# Date : 21:05:2025
+# Date : 03.10.25
 
 # Aim: To perform the Exploration of Prompting Techniques for Audio Generation
 
